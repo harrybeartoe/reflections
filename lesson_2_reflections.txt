@@ -1,0 +1,10 @@
+What happens when you initiliaze a repository? Why do you need to do it?
+
+When the repository is initiliazed it creates the .git file needed to use git.
+
+How is the staging are different from the working directory and the repository?
+What value do you think it offers?
+
+The staging are is the place where the files that are to be committed are put
+before being committed.
+It can let you add as many files in one commit.
