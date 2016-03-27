@@ -39,3 +39,27 @@ Now that you have your workspace set up, what do you want to try using Git for?
 For right now mainly having the portfolio of projects I will be completing during
 the iOS Nanaodegree
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+It can be check with git diff --staged to compare the file to the recent commit
+
+Whare are some situations when branches would be helpgul in keeping your history organized?
+How could branches help?
+
+When a different version of the project is made.
+Branches keeps the changes made to the different version of the project seperate from 
+the current project.
+
+How do the diagrams help you visualize the branch structure?
+
+With the diagram visualized you can easily see where each branch is connected to.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+You are in control of what you want to merge.
+You might forget to merge.
+
+
